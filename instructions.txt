@@ -1,4 +1,4 @@
-Instructions.txt
+instructions.txt
 
 * chop avocados
 * chop onion
